@@ -1,2 +1,5 @@
 # hello-world
-pasta para as ideias iniciais
+
+Ola pessoas
+
+tudo começa no nada, e tudo volta ao nada.
